@@ -1,6 +1,5 @@
 import React from 'react';
 import { NativeStackScreenProps } from '@react-navigation/native-stack'
-import { NavigationProp } from '@react-navigation/native';
 
 export interface splashLogoProps {
     size: number;
